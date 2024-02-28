@@ -81,3 +81,13 @@ button:nth-child(4) {
 .equal {
   border-radius: 0 0 12px 0;
 }
+
+.grey:hover {
+  background-color: #575859;
+}
+.dark-grey:hover {
+  background-color: #737474;
+}
+.orange:hover {
+  background-color: #ff780a;
+}
